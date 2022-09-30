@@ -1,0 +1,329 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "properties": {
+                "padding": {
+                  "top": "2"
+                }
+              },
+              "type": "ROW"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "properties": {
+                        "actualWidth": "100%",
+                        "borderRadius": 5,
+                        "src": "https://s3-media0.fl.yelpcdn.com/bphoto/BDTRkfVSJ8hoAT0amAfwkw/o.jpg"
+                      },
+                      "type": "IMAGE"
+                    }
+                  ],
+                  "properties": {
+                    "span": 6.7
+                  },
+                  "type": "COLUMN"
+                },
+                {
+                  "children": [],
+                  "properties": {
+                    "span": 0.3
+                  },
+                  "type": "COLUMN"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "properties": {
+                                "actualWidth": 40,
+                                "borderRadius": 100,
+                                "src": "https://s3-media0.fl.yelpcdn.com/photo/mHECDuUHa3KNL4NjsWcbTw/120s.jpg"
+                              },
+                              "type": "IMAGE"
+                            }
+                          ],
+                          "properties": {
+                            "horizontalAlignment": "left",
+                            "spacing": 0,
+                            "span": 2.5
+                          },
+                          "type": "COLUMN"
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "properties": {
+                                                "fontSize": 12,
+                                                "lineHeight": 1,
+                                                "text": {
+                                                  "content": [
+                                                    {
+                                                      "marks": [
+                                                        {
+                                                          "type": "strong"
+                                                        }
+                                                      ],
+                                                      "text": "Jay K.",
+                                                      "type": "text"
+                                                    }
+                                                  ],
+                                                  "type": "paragraph"
+                                                },
+                                                "textAlign": "left"
+                                              },
+                                              "type": "TEXT"
+                                            }
+                                          ],
+                                          "properties": {
+                                            "spacing": 0
+                                          },
+                                          "type": "COLUMN"
+                                        }
+                                      ],
+                                      "type": "ROW"
+                                    },
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "properties": {
+                                                "fontSize": 12,
+                                                "lineHeight": 0,
+                                                "text": {
+                                                  "content": [
+                                                    {
+                                                      "text": "San Francisco",
+                                                      "type": "text"
+                                                    }
+                                                  ],
+                                                  "type": "paragraph"
+                                                }
+                                              },
+                                              "type": "TEXT"
+                                            }
+                                          ],
+                                          "properties": {
+                                            "spacing": 0
+                                          },
+                                          "type": "COLUMN"
+                                        }
+                                      ],
+                                      "properties": {
+                                        "backgroundColor": "#fff",
+                                        "padding": {
+                                          "top": 1.5
+                                        }
+                                      },
+                                      "type": "ROW"
+                                    }
+                                  ],
+                                  "properties": {
+                                    "spacing": 0
+                                  },
+                                  "type": "COLUMN"
+                                }
+                              ],
+                              "properties": {
+                                "backgroundColor": "#fff",
+                                "spacing": 0
+                              },
+                              "type": "ROW"
+                            }
+                          ],
+                          "properties": {
+                            "horizontalAlignment": "start",
+                            "span": 9.5,
+                            "verticalAlignment": "center"
+                          },
+                          "type": "COLUMN"
+                        }
+                      ],
+                      "properties": {
+                        "padding": {
+                          "left": 0,
+                          "top": 1.5
+                        }
+                      },
+                      "type": "ROW"
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "lineHeight": 1,
+                                "text": {
+                                  "content": [
+                                    {
+                                      "marks": [
+                                        {
+                                          "attrs": {
+                                            "color": "grey"
+                                          },
+                                          "type": "textColor"
+                                        }
+                                      ],
+                                      "text": "Aug 27, '22",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "paragraph"
+                                },
+                                "textAlign": "left"
+                              },
+                              "type": "TEXT"
+                            }
+                          ],
+                          "properties": {
+                            "spacing": 0.1
+                          },
+                          "type": "COLUMN"
+                        }
+                      ],
+                      "properties": {
+                        "backgroundColor": "#fff",
+                        "padding": {
+                          "top": 1.2
+                        }
+                      },
+                      "type": "ROW"
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "lineHeight": 1,
+                                "text": {
+                                  "content": [
+                                    {
+                                      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas nisi id dolor interdum fermentum.",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "paragraph"
+                                },
+                                "textAlign": "left"
+                              },
+                              "type": "TEXT"
+                            }
+                          ],
+                          "properties": {
+                            "spacing": 0.1
+                          },
+                          "type": "COLUMN"
+                        }
+                      ],
+                      "properties": {
+                        "backgroundColor": "#fff",
+                        "padding": {
+                          "top": 1.2
+                        }
+                      },
+                      "type": "ROW"
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "lineHeight": "24px",
+                                "text": {
+                                  "content": [
+                                    {
+                                      "marks": [
+                                        {
+                                          "type": "strong"
+                                        }
+                                      ],
+                                      "text": "View more photos on",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "paragraph"
+                                },
+                                "textAlign": "left"
+                              },
+                              "type": "TEXT"
+                            },
+                            {
+                              "properties": {
+                                "actualHeight": 24,
+                                "actualWidth": 48,
+                                "href": "some_business_url_link",
+                                "src": "https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_design_cdn/793360d63737/assets/img/yelp_logo_desktop/default@2x.png"
+                              },
+                              "type": "IMAGE"
+                            }
+                          ],
+                          "properties": {
+                            "spacing": 0.2
+                          },
+                          "type": "CLUSTER_LAYOUT"
+                        }
+                      ],
+                      "properties": {
+                        "backgroundColor": "#fff",
+                        "padding": {
+                          "bottom": 0,
+                          "top": 1
+                        }
+                      },
+                      "type": "ROW"
+                    }
+                  ],
+                  "properties": {
+                    "span": 5
+                  },
+                  "type": "COLUMN"
+                }
+              ],
+              "type": "ROW"
+            },
+            {
+              "children": [],
+              "properties": {
+                "padding": {
+                  "top": "2"
+                }
+              },
+              "type": "ROW"
+            }
+          ],
+          "type": "COLUMN"
+        }
+      ],
+      "properties": {
+        "width": "85%"
+      },
+      "type": "ROW"
+    }
+  ],
+  "type": "FRAGMENT"
+}
