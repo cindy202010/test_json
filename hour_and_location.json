@@ -1,0 +1,663 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "properties": {
+                "padding": {
+                  "top": "2"
+                }
+              },
+              "type": "ROW"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "text": {
+                                  "content": [
+                                    {
+                                      "marks": [
+                                        {
+                                          "type": "strong"
+                                        }
+                                      ],
+                                      "text": "Address",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "doc"
+                                }
+                              },
+                              "type": "TEXT"
+                            },
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "text": {
+                                  "content": [
+                                    {
+                                      "marks": [
+                                        {
+                                          "type": "underline"
+                                        }
+                                      ],
+                                      "text": "Some address 1",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "doc"
+                                }
+                              },
+                              "type": "TEXT"
+                            },
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "text": {
+                                  "content": [
+                                    {
+                                      "marks": [],
+                                      "text": "Some city, CA, Some zip",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "doc"
+                                }
+                              },
+                              "type": "TEXT"
+                            },
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "text": {
+                                  "content": [
+                                    {
+                                      "marks": [],
+                                      "text": "Some address 2",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "doc"
+                                }
+                              },
+                              "type": "TEXT"
+                            },
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "text": {
+                                  "content": [
+                                    {
+                                      "marks": [],
+                                      "text": "Some address 3",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "doc"
+                                }
+                              },
+                              "type": "TEXT"
+                            },
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "lineHeight": 2.5,
+                                "text": {
+                                  "content": [
+                                    {
+                                      "text": "Some phone",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "doc"
+                                }
+                              },
+                              "type": "TEXT"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "properties": {
+                                            "fontSize": 10,
+                                            "lineHeight": "24px",
+                                            "text": {
+                                              "content": [
+                                                {
+                                                  "marks": [
+                                                    {
+                                                      "type": "strong"
+                                                    }
+                                                  ],
+                                                  "text": "View more on",
+                                                  "type": "text"
+                                                }
+                                              ],
+                                              "type": "paragraph"
+                                            },
+                                            "textAlign": "right"
+                                          },
+                                          "type": "TEXT"
+                                        },
+                                        {
+                                          "properties": {
+                                            "actualWidth": 45,
+                                            "href": "https://www.devc.yelp.com/biz/7RTCgOAMdlVY7nFNsmVGdQ/",
+                                            "src": "https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_design_cdn/793360d63737/assets/img/yelp_logo_desktop/default@2x.png"
+                                          },
+                                          "type": "IMAGE"
+                                        }
+                                      ],
+                                      "properties": {
+                                        "spacing": 0.5
+                                      },
+                                      "type": "CLUSTER_LAYOUT"
+                                    }
+                                  ],
+                                  "properties": {
+                                    "horizontalAlignment": "left",
+                                    "shouldForceSingleColumn": false,
+                                    "spacing": 0.3,
+                                    "verticalAlignment": "center"
+                                  },
+                                  "type": "COLUMN"
+                                }
+                              ],
+                              "type": "ROW"
+                            }
+                          ],
+                          "properties": {
+                            "spacing": 0.3
+                          },
+                          "type": "COLUMN"
+                        }
+                      ],
+                      "properties": {
+                        "width": "80%"
+                      },
+                      "type": "ROW"
+                    }
+                  ],
+                  "properties": {
+                    "span": "6"
+                  },
+                  "type": "COLUMN"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "text": {
+                                  "content": [
+                                    {
+                                      "marks": [
+                                        {
+                                          "type": "strong"
+                                        }
+                                      ],
+                                      "text": "Hours",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "doc"
+                                }
+                              },
+                              "type": "TEXT"
+                            },
+                            {
+                              "children": [],
+                              "properties": {
+                                "padding": {
+                                  "top": "1.25"
+                                }
+                              },
+                              "type": "ROW"
+                            }
+                          ],
+                          "properties": {
+                            "shouldForceSingleColumn": false,
+                            "spacing": 0.3
+                          },
+                          "type": "COLUMN"
+                        },
+                        {
+                          "children": [
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "text": {
+                                  "content": [
+                                    {
+                                      "marks": [
+                                        {
+                                          "type": "strong"
+                                        }
+                                      ],
+                                      "text": "Mon",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "doc"
+                                }
+                              },
+                              "type": "TEXT"
+                            }
+                          ],
+                          "properties": {
+                            "shouldForceSingleColumn": false,
+                            "spacing": 0.3,
+                            "span": 4
+                          },
+                          "type": "COLUMN"
+                        },
+                        {
+                          "children": [
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "text": {
+                                  "content": [
+                                    {
+                                      "text": "Some hours mon",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "doc"
+                                }
+                              },
+                              "type": "TEXT"
+                            }
+                          ],
+                          "properties": {
+                            "shouldForceSingleColumn": false,
+                            "spacing": 0.3,
+                            "span": 8
+                          },
+                          "type": "COLUMN"
+                        },
+                        {
+                          "children": [
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "text": {
+                                  "content": [
+                                    {
+                                      "marks": [
+                                        {
+                                          "type": "strong"
+                                        }
+                                      ],
+                                      "text": "Tue",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "doc"
+                                }
+                              },
+                              "type": "TEXT"
+                            }
+                          ],
+                          "properties": {
+                            "shouldForceSingleColumn": false,
+                            "spacing": 0.3,
+                            "span": 4
+                          },
+                          "type": "COLUMN"
+                        },
+                        {
+                          "children": [
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "text": {
+                                  "content": [
+                                    {
+                                      "text": "Some hours tue",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "doc"
+                                }
+                              },
+                              "type": "TEXT"
+                            }
+                          ],
+                          "properties": {
+                            "shouldForceSingleColumn": false,
+                            "spacing": 0.3,
+                            "span": 8
+                          },
+                          "type": "COLUMN"
+                        },
+                        {
+                          "children": [
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "text": {
+                                  "content": [
+                                    {
+                                      "marks": [
+                                        {
+                                          "type": "strong"
+                                        }
+                                      ],
+                                      "text": "Wed",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "doc"
+                                }
+                              },
+                              "type": "TEXT"
+                            }
+                          ],
+                          "properties": {
+                            "shouldForceSingleColumn": false,
+                            "spacing": 0.3,
+                            "span": 4
+                          },
+                          "type": "COLUMN"
+                        },
+                        {
+                          "children": [
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "text": {
+                                  "content": [
+                                    {
+                                      "text": "Some hours wed",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "doc"
+                                }
+                              },
+                              "type": "TEXT"
+                            }
+                          ],
+                          "properties": {
+                            "shouldForceSingleColumn": false,
+                            "spacing": 0.3,
+                            "span": 8
+                          },
+                          "type": "COLUMN"
+                        },
+                        {
+                          "children": [
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "text": {
+                                  "content": [
+                                    {
+                                      "marks": [
+                                        {
+                                          "type": "strong"
+                                        }
+                                      ],
+                                      "text": "Thu",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "doc"
+                                }
+                              },
+                              "type": "TEXT"
+                            }
+                          ],
+                          "properties": {
+                            "shouldForceSingleColumn": false,
+                            "spacing": 0.3,
+                            "span": 4
+                          },
+                          "type": "COLUMN"
+                        },
+                        {
+                          "children": [
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "text": {
+                                  "content": [
+                                    {
+                                      "text": "Some hours thu",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "doc"
+                                }
+                              },
+                              "type": "TEXT"
+                            }
+                          ],
+                          "properties": {
+                            "shouldForceSingleColumn": false,
+                            "spacing": 0.3,
+                            "span": 8
+                          },
+                          "type": "COLUMN"
+                        },
+                        {
+                          "children": [
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "text": {
+                                  "content": [
+                                    {
+                                      "marks": [
+                                        {
+                                          "type": "strong"
+                                        }
+                                      ],
+                                      "text": "Fri",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "doc"
+                                }
+                              },
+                              "type": "TEXT"
+                            }
+                          ],
+                          "properties": {
+                            "shouldForceSingleColumn": false,
+                            "spacing": 0.3,
+                            "span": 4
+                          },
+                          "type": "COLUMN"
+                        },
+                        {
+                          "children": [
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "text": {
+                                  "content": [
+                                    {
+                                      "text": "Some hours fri",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "doc"
+                                }
+                              },
+                              "type": "TEXT"
+                            }
+                          ],
+                          "properties": {
+                            "shouldForceSingleColumn": false,
+                            "spacing": 0.3,
+                            "span": 8
+                          },
+                          "type": "COLUMN"
+                        },
+                        {
+                          "children": [
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "text": {
+                                  "content": [
+                                    {
+                                      "marks": [
+                                        {
+                                          "type": "strong"
+                                        }
+                                      ],
+                                      "text": "Sat",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "doc"
+                                }
+                              },
+                              "type": "TEXT"
+                            }
+                          ],
+                          "properties": {
+                            "shouldForceSingleColumn": false,
+                            "spacing": 0.3,
+                            "span": 4
+                          },
+                          "type": "COLUMN"
+                        },
+                        {
+                          "children": [
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "text": {
+                                  "content": [
+                                    {
+                                      "text": "Some hours sat",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "doc"
+                                }
+                              },
+                              "type": "TEXT"
+                            }
+                          ],
+                          "properties": {
+                            "shouldForceSingleColumn": false,
+                            "spacing": 0.3,
+                            "span": 8
+                          },
+                          "type": "COLUMN"
+                        },
+                        {
+                          "children": [
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "text": {
+                                  "content": [
+                                    {
+                                      "marks": [
+                                        {
+                                          "type": "strong"
+                                        }
+                                      ],
+                                      "text": "Sun",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "doc"
+                                }
+                              },
+                              "type": "TEXT"
+                            }
+                          ],
+                          "properties": {
+                            "shouldForceSingleColumn": false,
+                            "spacing": 0.3,
+                            "span": 4
+                          },
+                          "type": "COLUMN"
+                        },
+                        {
+                          "children": [
+                            {
+                              "properties": {
+                                "fontSize": 12,
+                                "text": {
+                                  "content": [
+                                    {
+                                      "text": "Some hours sut",
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "type": "doc"
+                                }
+                              },
+                              "type": "TEXT"
+                            }
+                          ],
+                          "properties": {
+                            "shouldForceSingleColumn": false,
+                            "spacing": 0.3,
+                            "span": 8
+                          },
+                          "type": "COLUMN"
+                        }
+                      ],
+                      "properties": {
+                        "width": "80%"
+                      },
+                      "type": "ROW"
+                    }
+                  ],
+                  "properties": {
+                    "span": "6"
+                  },
+                  "type": "COLUMN"
+                }
+              ],
+              "type": "ROW"
+            },
+            {
+              "children": [],
+              "properties": {
+                "padding": {
+                  "top": "2"
+                }
+              },
+              "type": "ROW"
+            }
+          ],
+          "type": "COLUMN"
+        }
+      ],
+      "properties": {
+        "width": "85%"
+      },
+      "type": "ROW"
+    }
+  ],
+  "type": "FRAGMENT"
+}
+

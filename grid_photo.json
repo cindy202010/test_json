@@ -1,0 +1,238 @@
+i{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "properties": {
+                "padding": {
+                  "top": "2"
+                }
+              },
+              "type": "ROW"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "properties": {
+                            "borderRadius": 5,
+                            "src": "https://s3-media0.fl.yelpcdn.com/bphoto/BDTRkfVSJ8hoAT0amAfwkw/258s.jpg",
+                            "width": 100
+                          },
+                          "type": "IMAGE"
+                        }
+                      ],
+                      "properties": {
+                        "width": "90%"
+                      },
+                      "type": "ROW"
+                    }
+                  ],
+                  "properties": {
+                    "baseSpacing": 0.3,
+                    "span": 4
+                  },
+                  "type": "COLUMN"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "properties": {
+                            "borderRadius": 5,
+                            "src": "https://s3-media0.fl.yelpcdn.com/bphoto/JEp_USCA3PPsD5YZCghJdQ/258s.jpg",
+                            "width": 100
+                          },
+                          "type": "IMAGE"
+                        }
+                      ],
+                      "properties": {
+                        "width": "90%"
+                      },
+                      "type": "ROW"
+                    }
+                  ],
+                  "properties": {
+                    "baseSpacing": 0.3,
+                    "span": 4
+                  },
+                  "type": "COLUMN"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "properties": {
+                            "borderRadius": 5,
+                            "src": "https://s3-media0.fl.yelpcdn.com/bphoto/NyTZDmDTqbfzc8doTLu3cg/258s.jpg",
+                            "width": 100
+                          },
+                          "type": "IMAGE"
+                        }
+                      ],
+                      "properties": {
+                        "width": "90%"
+                      },
+                      "type": "ROW"
+                    }
+                  ],
+                  "properties": {
+                    "baseSpacing": 0.3,
+                    "span": 4
+                  },
+                  "type": "COLUMN"
+                }
+              ],
+              "type": "ROW"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "properties": {
+                            "borderRadius": 5,
+                            "src": "https://s3-media0.fl.yelpcdn.com/bphoto/4WvBA8cExIVoecrGpt1tew/258s.jpg",
+                            "width": 100
+                          },
+                          "type": "IMAGE"
+                        }
+                      ],
+                      "properties": {
+                        "width": "90%"
+                      },
+                      "type": "ROW"
+                    }
+                  ],
+                  "properties": {
+                    "baseSpacing": 0.3,
+                    "span": 4
+                  },
+                  "type": "COLUMN"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "properties": {
+                            "borderRadius": 5,
+                            "src": "https://s3-media0.fl.yelpcdn.com/bphoto/tsYLNzCKTo1yjUEiOd4iew/258s.jpg",
+                            "width": 100
+                          },
+                          "type": "IMAGE"
+                        }
+                      ],
+                      "properties": {
+                        "width": "90%"
+                      },
+                      "type": "ROW"
+                    }
+                  ],
+                  "properties": {
+                    "baseSpacing": 0.3,
+                    "span": 4
+                  },
+                  "type": "COLUMN"
+                }
+              ],
+              "type": "ROW"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "properties": {
+                                    "fontSize": 12,
+                                    "lineHeight": "24px",
+                                    "text": {
+                                      "content": [
+                                        {
+                                          "marks": [
+                                            {
+                                              "type": "strong"
+                                            }
+                                          ],
+                                          "text": "View more photos on",
+                                          "type": "text"
+                                        }
+                                      ],
+                                      "type": "paragraph"
+                                    },
+                                    "textAlign": "right"
+                                  },
+                                  "type": "TEXT"
+                                },
+                                {
+                                  "properties": {
+                                    "actualHeight": 24,
+                                    "actualWidth": 48,
+                                    "href": "https://www.yelp.com/biz_photos/the-mayfair-chippy-london-2",
+                                    "src": "https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_design_cdn/793360d63737/assets/img/yelp_logo_desktop/default@2x.png"
+                                  },
+                                  "type": "IMAGE"
+                                }
+                              ],
+                              "properties": {
+                                "spacing": 0.2
+                              },
+                              "type": "CLUSTER_LAYOUT"
+                            }
+                          ],
+                          "properties": {
+                            "horizontalAlignment": "right",
+                            "spacing": 0
+                          },
+                          "type": "COLUMN"
+                        }
+                      ],
+                      "type": "ROW"
+                    }
+                  ],
+                  "properties": {
+                    "spacing": 0
+                  },
+                  "type": "COLUMN"
+                }
+              ],
+              "type": "ROW"
+            },
+            {
+              "children": [],
+              "properties": {
+                "padding": {
+                  "top": "2"
+                }
+              },
+              "type": "ROW"
+            }
+          ],
+          "type": "COLUMN"
+        }
+      ],
+      "properties": {
+        "width": "85%"
+      },
+      "type": "ROW"
+    }
+  ],
+  "type": "FRAGMENT"
+}
+
